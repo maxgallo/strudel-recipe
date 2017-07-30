@@ -1,0 +1,8 @@
+{
+  "name": "new-recipe",
+  "version": "1.0.0",
+  "description": "Boilerplate for React, Mobx, Hot Reloading, Ava and Enzyme",
+  "main": "index.js",
+  "author": "massimiliano.gallo@gmail.com",
+  "license": "MIT"
+}
