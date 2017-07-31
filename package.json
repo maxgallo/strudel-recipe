@@ -27,7 +27,7 @@
     "scripts": {
         "start": "webpack-dev-server --content-base public",
         "start:hot": "webpack-dev-server --config webpack.config.hot.js --hot --content-base public",
-        "test": "ava"
+        "test": "NODE_ENV=test ava"
     },
     "ava": {
         "babel": "inherit",
